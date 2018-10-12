@@ -1,3 +1,4 @@
-# Automatic build
-Built website from `b575638`. See https://github.com/ethereum/remix-ide/ for details.
-To use an offline copy, download `remix-b575638.zip`.
+# Moac-Remix-IDE-Live
+Please download ZIP and run locally.
+Open index.html
+online  http://remix.tmaxpool.com/#optimize=false
